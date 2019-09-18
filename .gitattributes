@@ -27,7 +27,7 @@
 *.ts            text
 *.xml           text
 *.yaml          text
-*.yml           text
+*.yml           text eol=lf
 
 # Documents
 *.doc           diff=astextplain
