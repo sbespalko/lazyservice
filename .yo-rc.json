@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "lazyservice",
+    "packageName": "com.sbt.lazy",
+    "packageFolder": "com/sbt/lazy",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.3.0",
+    "jwtSecretKey": "OWMwZjYwZGZhZWU4YjNhNmFhODY5NDUzNWZiYmJkZjkwNjA3NjU5YmE5OWQwYWZjNzliOTkzMDNkYmQ2ODllMmE2YzMxNDgyNzU1NjI4MmRjZDkyYTFmMWYzZTY4NzM2OTE5ZTY1Y2JjNzRiODNkYjdlMjk5NTk5M2QzMjg3YmI=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sbespalko",
+  "repository-name": "lazyservice"
+}
